@@ -1,14 +1,14 @@
 {
-  "name": "J.A.R.V.I.S",
+  "name": "JARVIS",
   "bot-account": {
     "username": "jarvis4311",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "amaderduniya.aternos.me",
+    "ip": "amaderduniya.hopto.org",
     "port": 40520,
-    "version": "1.12.1",
+    "version": "",
     "try-creative": true
   },
   "position": {
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
