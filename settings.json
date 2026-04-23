@@ -1,14 +1,14 @@
 {
   "name": "J.A.R.V.I.S",
   "bot-account": {
-    "username": "brotherland4311",
-    "password": "tlwr841n",
+    "username": "",
+    "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "amaderduniya.aternos.me",
     "port": 40520,
-    "version": "1.21.11",
+    "version": "",
     "try-creative": false
   },
   "position": {
