@@ -9,7 +9,7 @@
     "ip": "amaderduniya.aternos.me",
     "port": 40520,
     "version": "",
-    "try-creative": true
+    "try-creative": false
   },
   "position": {
     "enabled": false,
