@@ -1,13 +1,13 @@
 {
   "name": "JARVIS",
   "bot-account": {
-    "username": "jarvis4311",
+    "username": "J.A.R.V.I.S",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "confused-charity.sg.e4mc.link",
-    "port": 25565,
+    "ip": "amaderduniya.aternos.me",
+    "port": 40520,
     "version": "",
     "try-creative": false
   },
