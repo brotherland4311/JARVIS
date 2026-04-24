@@ -24,11 +24,11 @@
     },
     "anti-afk": {
       "enabled": true,
-      "sneak": true
+      "sneak": false
     },
     "chat-messages": {
       "enabled": false,
-      "repeat": true,
+      "repeat": false,
       "repeat-delay": 1800,
       "messages": [
         "I'm JARVIS, your personal assistant.",
@@ -73,12 +73,12 @@
     "place-night": true
   },
   "discord": {
-    "enabled": true,
+    "enabled": false,
     "webhookUrl": "https://discord.com/api/webhooks/1496756064019021834/Ka147lb-zghXX77eKo4sg9oVcpEN0JKm1yLwEuXruI5pjZUu5EnBgfUUA10lDTka9ULm",
     "events": {
       "connect": true,
       "disconnect": true,
-      "chat": true
+      "chat": false
     }
   },
   "chat": {
