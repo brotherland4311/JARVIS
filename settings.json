@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "J.A.R.V.I.S",
     "password": "",
-    "type": "offline"
+    "type": "mojang"
   },
   "server": {
-    "ip": "amaderduniya.hopto.org",
-    "port": 40520,
+    "ip": "The-Beast-SMP.aternos.me",
+    "port": 30877,
     "version": "",
     "try-creative": true
   },
